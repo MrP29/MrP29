@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving algorithms and making and playing video games.
 - 🌱 I’m currently learning C++, Java, React, Godot, and Unity.
 - 💞️ I’m looking to collaborate on making fun video games.
-- 🖥 Website https://mrp29.github.io/
+- 🖥 Website https://mrp29.github.io/ (On going)
 - 🖥 Mini Projects https://mrp29.github.io/Mini-Projects/
 - 👾 itch.io https://mrp29.itch.io/
 - 📫 How to reach me https://www.linkedin.com/in/kwonmin-bok-63a366173/ (LinkedIn)
