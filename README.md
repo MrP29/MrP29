@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MrP29
-- 🧑🏼‍💻 I'm currently looking for 2022 Summer Internship.
 - 🌱 I’m currently studying C++, OpenGL, and Fullstack Web Development.
 - 👀 I’m interested in solving algorithms and making and playing video games.
 - 💞️ I’m looking to collaborate on making fun video games.
